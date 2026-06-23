@@ -1,9 +1,9 @@
-import Chat from "./pages/Chat";
+import Authentication from "./Authentication";
 
 function App() {
 
     return (
-        <Chat />
+        <Authentication />
     );
 }
 
